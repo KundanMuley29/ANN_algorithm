@@ -9,7 +9,7 @@ This repository contains a Jupyter Notebook implementing an Artificial Neural Ne
 ## Features
 
 - Data preprocessing
-- Model creation using libraries like TensorFlow/Keras or PyTorch
+- Model creation using libraries 
 - Model training and evaluation
 - Visualization of results
 
